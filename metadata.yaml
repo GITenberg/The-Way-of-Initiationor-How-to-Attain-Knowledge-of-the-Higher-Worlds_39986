@@ -1,0 +1,42 @@
+_repo: The-Way-of-Initiationor-How-to-Attain-Knowledge-of-the-Higher-Worlds_39986
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Schuré, Edouard
+    aliases:
+    - Schuré, Eduardo
+    - Schure, Edouard
+    birthdate: 1841
+    deathdate: 1929
+    gutenberg_agent_id: '42185'
+    url: http://www.gutenberg.org/2009/agents/42185
+  translator:
+    agent_name: Gysi, Max
+    gutenberg_agent_id: '40350'
+    url: http://www.gutenberg.org/2009/agents/40350
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Steiner, Rudolf
+    alias: Steiner, Rudolph
+    birthdate: 1861
+    deathdate: 1925
+    gutenberg_agent_id: '26537'
+    url: http://www.gutenberg.org/2009/agents/26537
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Steiner
+description: ''
+gutenberg_issued: '2012-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39986'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BP'
+- !lcsh 'Theosophy'
+title: The Way of Initiation; or, How to Attain Knowledge of the Higher Worlds
+url: http://www.gutenberg.org/ebooks/39986
